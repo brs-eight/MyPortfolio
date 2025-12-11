@@ -9,25 +9,25 @@
 Здесь собраны ключевые проекты, которые я реализовал. Они демонстрируют мой опыт, навыки и подход к решению задач.
 
 ### [Проект 1: Менеджер паролей](https://github.com/brs-eight/password_manager)
-**Технологии:** GetIt, Bloc(Cubit), Hive, Talker
+**Технологии:** GetIt, Bloc(Cubit), Hive, Talker <br>
 **Описание:** Менеджер паролей, работа с хранением данных локально на устройстве.
 
 ### [Проект 2: Система бронирования барбершопа](https://github.com/brs-eight/barber_booker)
-**Технологии:** Bloc, Firebase, Hive, Google Sign-In
+**Технологии:** Bloc, Firebase, Hive, Google Sign-In <br>
 **Описание:** Приложение с системой бронирования для барбершопа, возможность увидеть барберов, то чем они занимаются.
 Разделено на админ панель, барбер панель и пользовательскую панель. У каждого свои права доступа и возможности.
 
 ### [Проект 3: Календарь привычек](https://github.com/brs-eight/tracker_habits)
-**Технологии:** Hive, HeatMap-Calendar
+**Технологии:** Hive, HeatMap-Calendar <br>
 **Описание:** TO-Do, но с привычками и отображением в календаре в стиое GitHub commit calendar.
 
 ### [Проект 4: Hornet](https://github.com/brs-eight/hornet)
-**Технологии:** Dio, GetIt, Bloc, Hive, GoRouter
+**Технологии:** Dio, GetIt, Bloc, Hive, GoRouter<br>
 **Описание:** Галерея изображений с сайта по API, реализован поиск по тегу, категории, фильтрация контента
 
 ### [Проект 5: Rick and Morty Character Explorer](https://github.com/brs-eight/RaM_Gallery)
-**Технологии:** Dio, Hive, Bloc, GoRouter
-**Описание:** Приложение для сохранения своих любимых персонажей из Рик И Морти, с кешированием данных и пагинацией
+**Технологии:** Dio, Hive, Bloc, GoRouter<br>
+**Описание:** Приложение для сохранения своих любимых персонажей из Рик И Морти, с кешированием данных и пагинацией<br>
 **Особенности:**
 - Бесконечный скроллинг
 - Менеджмент избранных персонажей
@@ -37,7 +37,7 @@
 - Анимации
 
 ### [Проект 6: СМС логгер](https://github.com/brs-eight/Notification-Background-Logger)
-**Технологии:** Dio, GetIt, Bloc, Hive, GoRouter, Equatable, Talker, Permission handler, Kotlin
+**Технологии:** Dio, GetIt, Bloc, Hive, GoRouter, Equatable, Talker, Permission handler, Kotlin<br>
 **Описание:** Приложение которое слушает все входящие уведомления (из любого приложения) и СМС и далее сохраняет их в локальную базу данных и выводит
 на экране. Работает в бэкграунде. Нюанс: только для android, IOS не даёт такой доступ к уведомлениям.
 
